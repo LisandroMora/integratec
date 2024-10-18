@@ -1,0 +1,154 @@
+{
+    "es": {
+        "menu": {
+            "home": "Inicio",
+            "us": "Nosotros",
+            "solutions": "Soluciones",
+            "partners": "Alianzas",
+            "contact": "Contacto"
+        },
+        "banner": {
+            "title": "Soluciones en Tecnología",
+            "subtitle": "Transformación Digital"
+        },
+        "usCards": {
+            "card1": "años en el mercado",
+            "card2": "clientes",
+            "card3": "proyectos"
+        },
+        "mision": {
+            "left": {
+                "header": "Presentes en",
+                "title": "3 países",
+                "text": "Gracias a nuestra pasión por la tecnología, la capacidad de nuestro equipo y la calidad de nuestros servicios, estamos presentes en República Dominicana, Jamaica y Brasil."
+            },
+            "right": {
+                "top": {
+                    "title": "Misión",
+                    "text": "Guiar a las empresas en su transformación y desarrollo digital, brindando integraciones de productos y servicios tecnológicos."
+                },
+                "bottom": {
+                    "title": "Visión",
+                    "text": "Ser el integrador tecnológico más reconocido de la República Dominicana y el Caribe, brindando asesoría de calidad para el crecimiento personal y profesional de nuestros clientes y empleados."
+                }
+            }
+        },
+        "solutions": {
+            "title": "Soluciones",
+            "text": "Como representantes experimentados y certificados de ManageEngine y Cloudflare, ofrecemos herramientas y servicios desde consultoría hasta soporte local.",
+            "cards": {
+                "card1": {
+                    "title": "Seguridad de la informaciones",
+                    "text": "Soluciones como: SIEM, Gestión de Registros, Auditorías, Seguridad de Aplicaciones y Redes y plataforma SASE SSE."
+                },
+                "card2": {
+                    "title": "Infraestructura de TI",
+                    "text": "Gerenciamento de Endpoints, Active Directory, identidades, acessos, incidentes, serviços e ativos de TI."
+                },
+                "card3": {
+                    "title": "Servicios Gestionados",
+                    "text": "Debido a nuestra experiencia, te apoyamos desde la consultoría, diseño de proyectos, implementación, capacitación y soporte local, convirtiéndonos en tus aliados estratégicos."
+                }
+            }
+        },
+        "partners": {
+            "title": "Alianza estratégica",
+            "companies": {
+                "title": "Impactamos más de",
+                "text": "100 empresas"
+            }
+        },
+        "contact": {
+            "title": "Queremos apoyar a tu negocio",
+            "form": {
+                "name": "Nombre",
+                "email": "Correo",
+                "phone": "Teléfono",
+                "subject": "Asunto",
+                "button": "Contactar"
+            }
+        },
+        "footer": {
+            "sales": "Ventas",
+            "engenieer": "Ingeniero",
+            "street": "Edificio Espaillat, C. César Nicolás Penson 157",
+            "city": "Santo Domingo, República Dominicana"
+        }
+    },
+    "pt": {
+        "menu": {
+            "home": "Início",
+            "us": "Sobre nós",
+            "solutions": "Soluções",
+            "partners": "Parceiros",
+            "contact": "Contato"
+        },
+        "banner": {
+            "title": "Soluções em Tecnologia",
+            "subtitle": "Transformação Digital"
+        },
+        "usCards": {
+            "card1": "anos no mercado",
+            "card2": "clientes",
+            "card3": "projetos"
+        },
+        "mision": {
+            "left": {
+                "header": "Presente em",
+                "title": "3 países",
+                "text": "Graças à nossa paixão pela tecnologia,  a capacidade da nossa equipe e a qualidade dos nossos serviços, estamos presentes na República Dominicana, Jamaica e Brasil."
+            },
+            "right": {
+                "top": {
+                    "title": "Missão",
+                    "text": "Orientar empresas em sua transformação e desenvolvimento digital, proporcionando integrações de produtos e serviços tecnológicos."
+                },
+                "bottom": {
+                    "title": "Visão",
+                    "text": "Ser o integrador tecnológico mais conceituado da República Dominicana e do Caribe, prestando assessoria de qualidade para o crescimento pessoal e profissional de nossos clientes e colaboradores."
+                }
+            }
+        },
+        "solutions": {
+            "title": "Soluções",
+            "text": "As marcas, produtos e ferramentas que representamos, são estrategicamente agrupados para oferecer a melhor solução tecnológica e pontual para seus projetos.",
+            "cards": {
+                "card1": {
+                    "title": "Segurança da Informação",
+                    "text": "Fornecemos soluções para a proteção interna e externa do seu bem mais valioso, a informação."
+                },
+                "card2": {
+                    "title": "Infraestrutura de TI",
+                    "text": "Oferecemos softwares e hardwares para otimização de recursos e desenvolvimento efetivo da sua empresa."
+                },
+                "card3": {
+                    "title": "Serviços gerenciados",
+                    "text": "Terceirizamos todos ou parte dos recursos necessários ao crescimento efetivo da sua empresa através do IBS."
+                }
+            }
+        },
+        "partners": {
+            "title": "Parceiros Estratégicos",
+            "companies": {
+                "title": "Impactamos mais do que",
+                "text": "100 empresas"
+            }
+        },
+        "contact": {
+            "title": "Queremos apoiar seu negócio",
+            "form": {
+                "name": "Nome",
+                "email": "E-mail",
+                "phone": "Telefone",
+                "subject": "Assunto",
+                "button": "Contatar"
+            }
+        },
+        "footer": {
+            "sales": "Vendas",
+            "engenieer": "Engenheiro",
+            "street": "Edifício Itália, Av. São Luís, 50 – 33 andar",
+            "city": "República - São Paulo – CEP: 01046-926"
+        }
+    }
+}
